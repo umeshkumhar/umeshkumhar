@@ -65,4 +65,3 @@ Always looking for a challenging career where there is scope for demonstration, 
 
 
 
-<img align="center" src="https://github.com/umeshkumhar/umeshkumhar/raw/main/assets/dino.gif" alt="umeshkumhar"/>
