@@ -42,13 +42,12 @@ Always looking for a challenging career where there is scope for demonstration, 
 <p>
 <a align= "center" href="https://github.com/umeshkumhar">
 
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkumhar&theme=radical">
+<img  align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkumhar&theme=radical">
 
 <img align="right" height="450" width="400" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=umeshkumhar&count_private=true&theme=radical&show_icons=true" />
 
 <h3 align="center">Connect with me  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
