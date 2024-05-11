@@ -11,23 +11,16 @@ Always looking for a challenging career where there is scope for demonstration, 
 </h4> 
 <br>
 
-<table>
- <tr >
-    <td>
 
+<p align="center"> 
 
-- I'm *currently* **sleeping** 😴 or *coding* on my **laptop** 👨‍💻
-- I'm looking :eyes: to **collaborate** on *DevOps Projects*.
-- OpenSource 🔥 at *https://umeshkumhar.github.io* 🚧
-- Show some Love :heart: **Follow 📲 & Star this Repo** 📑
-- **Arctic Code Vault Contributor** to Mozilla Repo 👨‍💻
-- 📫 How to reach me **write2umeshkumhar@gmail.com**
+<a align= "center" href="https://github.com/umeshkumhar">
 
-</td>
-    <td ><img align="right" alt= "meme" height="225" width="400" src="https://github.com/umeshkumhar/umeshkumhar/raw/main/assets/meme.jpg">
-</td>
- </tr>
-</table>
+<img  align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkumhar&theme=radical">
+
+</a>
+</p>
+
 
 
 <p align="center"> 
@@ -40,27 +33,10 @@ Always looking for a challenging career where there is scope for demonstration, 
 </p>
 
 <p>
-<a align= "center" href="https://github.com/umeshkumhar">
 
-<img  align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkumhar&theme=radical">
-
-<img align="right" height="450" width="400" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
-
-</a>
 </p>
 
-<h3 align="center">Connect with me  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h3>
-<p align="center">
-<a href="https://twitter.com/UmeshKumhar29" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="UmeshKumhar29" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/umeshkumhar/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="umeshkumhar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/umeshkumhar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="umeshkumhar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/4843044/umesh-kumhar" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="umeshkumhar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/umeshkumhar" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/64/000000/github.png" alt="umeshkumhar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:write2umeshkumhar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail.png" alt="umeshkumhar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 
 
 
